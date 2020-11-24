@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T04:20:16.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.1" etag="DVNKiL6QBXbvwO4o4Txj" type="github"><diagram id="32ODKYsxVAq7-O7Kh0md">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-24T04:32:21.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="SbBHfnUsqAG_M6pCHlzI" version="13.10.1" type="github">
+  <diagram id="32ODKYsxVAq7-O7Kh0md" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-1" value="日志采集系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-2" value="业务数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-3" value="爬虫系统等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-4" value="数据仓库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-6" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-7" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-8" value="报表系统&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%97%A5%E5%BF%97%E9%87%87%E9%9B%86%E7%B3%BB%E7%BB%9F%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22120%22%20y%3D%22110%22%20width%3D%22120%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-9" value="日志采集系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-10" value="推荐系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-11" value="机器学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ad3V_ESg-aLAWAzY61vZ-12" value="风控系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
